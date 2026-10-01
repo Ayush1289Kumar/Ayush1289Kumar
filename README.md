@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learning%20%C2%B7%20Building%20%C2%B7%20Documenting&descAlignY=58&descSize=16" width="100%"/>
+
 <div align="center">
 
 <!-- Typing SVG Header -->
@@ -131,18 +133,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush1289Kumar&theme=github-compact&bg_color=0d1117&color=D4AF37&line=38BDF8&point=D4AF37&area=true&border_color=D4AF37" width="95%"/>
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush1289Kumar&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
@@ -152,12 +142,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-ayushkumar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-806371377/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nova_.ayush/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/Ayush1289Kumar/Leetcode_Questions)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_ayush_1289/)
 
 <br/>
 
-*"Discipline compounds faster than talent."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=80&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg)
+<sub><i>"Discipline compounds faster than talent."</i></sub>
 
 </div>
