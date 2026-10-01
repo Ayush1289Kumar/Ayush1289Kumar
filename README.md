@@ -125,13 +125,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush1289Kumar&show_icons=true&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=38BDF8&text_color=E2E8F0&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush1289Kumar&theme=github-dark-blue&border=D4AF37&stroke=D4AF37&ring=38BDF8&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush1289Kumar&theme=github-compact&bg_color=0d1117&color=D4AF37&line=38BDF8&point=D4AF37&area=true&border_color=D4AF37" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Ayush1289Kumar&theme=github-dark-blue&border=D4AF37&stroke=D4AF37&ring=38BDF8&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0" height="165"/>
 
 </div>
 
