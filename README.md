@@ -14,8 +14,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush1289Kumar&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
 
 ---
